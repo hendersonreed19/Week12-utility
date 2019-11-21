@@ -9,3 +9,5 @@ def LoadFile(file)
     PrintOutput(i)
     
 def UpdateString(string)
+
+def FindWordCount(words)
