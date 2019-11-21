@@ -15,3 +15,5 @@ def FindWordCount(words):
 def ScoreFinder(score):
 
 def Union(Lista, Listb):
+
+def intersection(Lista, Listb):
