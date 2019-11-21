@@ -7,3 +7,5 @@ def LoadFile(file)
             i += 1
 
     PrintOutput(i)
+    
+def UpdateString(string)
