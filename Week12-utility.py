@@ -13,3 +13,5 @@ def UpdateString(string):
 def FindWordCount(words):
 
 def ScoreFinder(score):
+
+def Union(Lista, Listb):
