@@ -1,6 +1,6 @@
 def PrintOutput(output):
     print(output)
-def LoadFile(file)
+def LoadFile(file):
      i = 0
     with open(file, r) as file:
         for lines in file:
@@ -8,6 +8,8 @@ def LoadFile(file)
 
     PrintOutput(i)
     
-def UpdateString(string)
+def UpdateString(string):
 
-def FindWordCount(words)
+def FindWordCount(words):
+
+def ScoreFinder(score):
